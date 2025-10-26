@@ -1,0 +1,2 @@
+# didafix
+image,pdf,tool
